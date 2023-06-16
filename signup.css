@@ -1,0 +1,153 @@
+logo{
+    color: #fafafa;
+    font-weight: 900;
+    font-size: 35px;
+    font-family: 'Tsukimi Rounded', sans-serif;
+    margin: 8px;
+}
+#lg{
+    position: absolute;
+}
+#nav{
+    background: linear-gradient(46.33deg, rgba(33, 33, 33, 0.69) 0%, rgba(66, 66, 66, 0.25) 178.98%);
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+}
+.create{
+    background-color: #fafafa;
+    width: 460px;
+    height: 600px;
+    border-radius: 24px;
+    position: absolute;
+    margin-left: 36%;
+    margin-top: 5%;
+}
+#W{
+    margin-top: 20%;
+    margin-left: 15%;
+}
+#log{
+    margin-left: 15%;
+    font-size: 50px;
+    font-weight: bold;
+    color: #de1e1e;
+}
+#password{
+    margin-left: 15%;
+    width: 300px;
+    height:  45px;
+    border-radius: 10px ;
+    margin-top: 4%;
+    border: #bdbdbd 2px solid;
+
+}
+#email{
+    margin-left: 15%;
+    width: 300px;
+    height:  45px;
+    border-radius: 10px ;
+    margin-top: 3%;
+    border: #bdbdbd 2px solid;
+    margin-top: 5%;
+}
+#Uname{
+    margin-left: 15%;
+    width: 300px;
+    height:  45px;
+    border-radius: 10px ;
+    border: #bdbdbd 2px solid;
+    margin-top: 4%;
+}
+#mobile{
+    margin-left: 15%;
+    width: 300px;
+    height:  45px;
+    border-radius: 10px ;
+    margin-top: 3%;
+    border: #bdbdbd 2px solid;
+    margin-top: 4%;
+}
+#button1{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+button{
+    width: 307px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: #fafafa;
+    font-family: 'Poppins', sans-serif;
+    height: 45px;
+    border: black;
+    font-weight:900;
+    font-size: 15px;
+    text-align: center;
+}
+.email{
+    position: absolute;
+    margin-left: 18%;
+    background-color: rgb(255,255,255,0.8);
+    font-weight: 500;
+    margin-top: 3.7%;
+    font-size: 14.5px;
+
+}
+.name{
+    position: absolute;
+    margin-left: 18%;
+    background-color: rgb(255,255,255,0.8);
+    font-weight: 500;
+    margin-top: 2.5%;
+    font-size: 14.5px;
+}
+.password{
+    position: absolute;
+    margin-left: 18%;
+    font-weight: 500;
+    margin-top: 2%;
+    background-color: rgb(255,255,255,0.8);
+    font-size: 14.5px;
+}
+#UP{
+    margin-left: 15%;
+    font-size: 25px;
+    font-weight: bold;
+}
+#errormessage{
+    margin-left: 36%;
+    font-size: 25px;
+    font-weight: bold;
+}
+.W{
+    margin-top: 15%;
+    margin-left: 15%;
+}
+.mobile{
+    position: absolute;
+    margin-left: 18%;
+    font-weight: 500;
+    margin-top: 2%;
+    background-color: rgb(255,255,255,0.8);
+    font-size: 14.5px;
+}
+a{
+    text-decoration: none;
+    color: #212121;
+}
+#signin{
+    margin-top: 10%;
+    margin-left: 22%;
+    font-weight: 500;
+    font-size: 15px;
+}
+#logo{
+    color: white;
+    font-weight: 900;
+    font-size: 50px;
+    font-family: 'Tsukimi Rounded', sans-serif;
+    margin: 8px;
+}
